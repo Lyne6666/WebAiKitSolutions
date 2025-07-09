@@ -1,2 +1,1 @@
-# WebAiKitSolutions
-Advanced WebAiKitSolutions project
+.
